@@ -23,6 +23,8 @@ set clipboard+=unnamedplus
 
 
 " Mappings
+let mapleader = ","
+
 map <space> /
 map <C-space> ?
 
